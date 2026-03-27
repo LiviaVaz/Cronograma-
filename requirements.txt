@@ -1,0 +1,2 @@
+#O arquivo usa uma biblioteca padrão do Python (Tkinter/Ttk);
+#Não há necessidade de instalações externas via pip install.
